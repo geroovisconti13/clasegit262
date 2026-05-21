@@ -3,6 +3,10 @@ const alumnos = [
   { nombre: "María", edad: 22 },
   { nombre: "Geronimo", edad: 20 },
   { nombre: "Lucia", edad: 22 },
+  { nombre: "Lucia", edad: 20},
+  { nombre: "Mateo", edad: 23},
+  { nombre: "Emilia", edad: 21},
+  { nombre: "Blue", edad: 22},
 ]
 
 function mostrarAlumnos() {
